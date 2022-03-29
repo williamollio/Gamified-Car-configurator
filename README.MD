@@ -6,8 +6,8 @@
 
 </br>
 
-*This project was created in 3 days during the [MHP - A Porsche Company](https://www.mhp.com/en/home) "Mobility Hack 2022" Hackathon and earned us the second place. Your create your avatar, we create a car configuration for you.
-We choose to build this configurator because usually people spend more time creating avatar as playing because it's fun.*
+*This project was created in 3 days during the [MHP - A Porsche Company](https://www.mhp.com/en/home) "Mobility Hack 2022" Hackathon and earned us the second place. You create your avatar, we propose you the car that fits your needs.
+We choose to build this car configurator because usually people spend more time personalizing their avatar as actually playing the video game.*
 
 </br>
 
